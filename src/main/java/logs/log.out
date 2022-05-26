@@ -1,0 +1,23 @@
+2021-12-17 10:12:260 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 10:12:807 INFO  HomePage :43 - Selecting make  [[ChromeDriver: chrome on WINDOWS (960052777918be0ce9bbd6b92dd173c3)] -> id: makes]
+2021-12-17 10:12:266 INFO  HomePage :48 - Selecting model  [[ChromeDriver: chrome on WINDOWS (960052777918be0ce9bbd6b92dd173c3)] -> id: models]
+2021-12-17 10:12:660 INFO  HomePage :53 - Selecting location  [[ChromeDriver: chrome on WINDOWS (960052777918be0ce9bbd6b92dd173c3)] -> id: locations]
+2021-12-17 10:12:935 INFO  HomePage :57 - Selecting max price  [[ChromeDriver: chrome on WINDOWS (960052777918be0ce9bbd6b92dd173c3)] -> id: priceTo]
+2021-12-17 10:12:822 INFO  HomePage :61 - Clicking on find my next car  [[ChromeDriver: chrome on WINDOWS (960052777918be0ce9bbd6b92dd173c3)] -> id: search-submit]
+2021-12-17 10:12:877 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 10:12:909 INFO  HomePage :43 - Selecting make  [[ChromeDriver: chrome on WINDOWS (f1f7113603e63ec7fb50db4ee08e674a)] -> id: makes]
+2021-12-17 10:12:266 INFO  HomePage :48 - Selecting model  [[ChromeDriver: chrome on WINDOWS (f1f7113603e63ec7fb50db4ee08e674a)] -> id: models]
+2021-12-17 10:12:577 INFO  HomePage :53 - Selecting location  [[ChromeDriver: chrome on WINDOWS (f1f7113603e63ec7fb50db4ee08e674a)] -> id: locations]
+2021-12-17 10:12:851 INFO  HomePage :57 - Selecting max price  [[ChromeDriver: chrome on WINDOWS (f1f7113603e63ec7fb50db4ee08e674a)] -> id: priceTo]
+2021-12-17 10:12:38 INFO  HomePage :61 - Clicking on find my next car  [[ChromeDriver: chrome on WINDOWS (f1f7113603e63ec7fb50db4ee08e674a)] -> id: search-submit]
+2021-12-17 10:12:781 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 11:12:790 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 11:12:554 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 11:12:321 INFO  CarDealersPage :37 - verifying 'Dealers Name' from the list  3 Point Motors Epping
+2021-12-17 11:12:838 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 12:12:510 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 12:12:642 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 12:12:759 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 12:12:891 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 12:12:657 INFO  ManageDriver :35 - Launching chrome 
+2021-12-17 12:12:43 INFO  ManageDriver :35 - Launching chrome 

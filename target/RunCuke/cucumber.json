@@ -1,0 +1,618 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 14172677800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Find the dealers and verify the dealers are in list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-list;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 978111800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 404025200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "BuySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 335486400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on “buy+sell” tab",
+            "match": {
+              "location": "BuySteps.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1704607100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click ‘Find a Dealer’",
+            "match": {
+              "location": "FindDealersSteps.iClickFindADealer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 543598700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to ‘car-dealers’ page",
+            "match": {
+              "location": "FindDealersSteps.iNavigateToCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 177122100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see the dealer names \"3 Point Motors Epping\" are display on page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3 Point Motors Epping",
+                  "offset": 31
+                }
+              ],
+              "location": "FindDealersSteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7090396000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Find the dealers and verify the dealers are in list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-list;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 939471300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 61500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "BuySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 519899500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on “buy+sell” tab",
+            "match": {
+              "location": "BuySteps.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1858886700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click ‘Find a Dealer’",
+            "match": {
+              "location": "FindDealersSteps.iClickFindADealer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 508768100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to ‘car-dealers’ page",
+            "match": {
+              "location": "FindDealersSteps.iNavigateToCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 184855900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see the dealer names \"4WD Specialist Group\" are display on page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4WD Specialist Group",
+                  "offset": 31
+                }
+              ],
+              "location": "FindDealersSteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7091390800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Find the dealers and verify the dealers are in list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-list;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 945775900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 79000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "BuySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 546015500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on “buy+sell” tab",
+            "match": {
+              "location": "BuySteps.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2032655100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click ‘Find a Dealer’",
+            "match": {
+              "location": "FindDealersSteps.iClickFindADealer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 350066900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to ‘car-dealers’ page",
+            "match": {
+              "location": "FindDealersSteps.iNavigateToCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 159123200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see the dealer names \"5 Star Auto\" are display on page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5 Star Auto",
+                  "offset": 31
+                }
+              ],
+              "location": "FindDealersSteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7525816800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Find the dealers and verify the dealers are in list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-list;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 873075700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 42200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "BuySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 402620200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on “buy+sell” tab",
+            "match": {
+              "location": "BuySteps.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 700526700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click ‘Find a Dealer’",
+            "match": {
+              "location": "FindDealersSteps.iClickFindADealer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 731044300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to ‘car-dealers’ page",
+            "match": {
+              "location": "FindDealersSteps.iNavigateToCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1496227800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see the dealer names \"A \u0026 M Car Sales Pty Ltd\" are display on page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "A \u0026 M Car Sales Pty Ltd",
+                  "offset": 31
+                }
+              ],
+              "location": "FindDealersSteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6906373900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Find the dealers and verify the dealers are in list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-list;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 1167029300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 36800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "BuySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 633390800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on “buy+sell” tab",
+            "match": {
+              "location": "BuySteps.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2079723000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click ‘Find a Dealer’",
+            "match": {
+              "location": "FindDealersSteps.iClickFindADealer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 355348100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to ‘car-dealers’ page",
+            "match": {
+              "location": "FindDealersSteps.iNavigateToCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 170617300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see the dealer names \"A1 MOTORS COMPANY\" are display on page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "A1 MOTORS COMPANY",
+                  "offset": 31
+                }
+              ],
+              "location": "FindDealersSteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7426640500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Find the dealers and verify the dealers are in list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-list;;7",
+        "after": [
+          {
+            "result": {
+              "duration": 1003717800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 30700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "BuySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 487137100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on “buy+sell” tab",
+            "match": {
+              "location": "BuySteps.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2126310000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click ‘Find a Dealer’",
+            "match": {
+              "location": "FindDealersSteps.iClickFindADealer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 425995600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to ‘car-dealers’ page",
+            "match": {
+              "location": "FindDealersSteps.iNavigateToCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 194543700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see the dealer names \"ANDREA MOTOR SERVICE\" are display on page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ANDREA MOTOR SERVICE",
+                  "offset": 31
+                }
+              ],
+              "location": "FindDealersSteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Find the dealers and verify",
+    "description": "",
+    "id": "find-the-dealers-and-verify",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/finddealers.feature"
+  }
+]
